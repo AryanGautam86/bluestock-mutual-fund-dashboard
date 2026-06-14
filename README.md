@@ -1,4 +1,4 @@
-# bluestock-mutual-fund-dashboard
+# bluestock-mutual-fund-dashboard (Deployement App Link: https://bluestock-mutual-fund-dashboard-5lb3uzfj5waungnx6yf2hc.streamlit.app/)
 #  Bluestock Mutual Fund Dashboard
 
 A complete interactive Mutual Fund Analytics Dashboard built using **Python**, **SQLite**, **Pandas**, **Plotly**, and **Streamlit**.
